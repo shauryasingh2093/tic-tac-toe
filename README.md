@@ -1,2 +1,2 @@
 # tic-tac-toe
-game 
+game using js
